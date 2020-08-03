@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="112" started-at="2020-05-11T05:32:20 IST" finished-at="2020-05-11T05:32:20 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="112" started-at="2020-05-11T05:32:20 IST" finished-at="2020-05-11T05:32:20 IST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="appium1()[pri:0, instance:qaclickacademy.AppiumTest@17579e0f]" name="appium1" duration-ms="14" started-at="2020-05-11T05:32:20 IST" finished-at="2020-05-11T05:32:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium1 -->
+        <test-method status="PASS" signature="appium2()[pri:0, instance:qaclickacademy.AppiumTest@17579e0f]" name="appium2" duration-ms="4" started-at="2020-05-11T05:32:20 IST" finished-at="2020-05-11T05:32:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium2 -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="selenium1()[pri:0, instance:qaclickacademy.SeleniumTest@4d41cee]" name="selenium1" duration-ms="2" started-at="2020-05-11T05:32:20 IST" finished-at="2020-05-11T05:32:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium1 -->
+        <test-method status="PASS" signature="selenium2()[pri:0, instance:qaclickacademy.SeleniumTest@4d41cee]" name="selenium2" duration-ms="3" started-at="2020-05-11T05:32:20 IST" finished-at="2020-05-11T05:32:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium2 -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
